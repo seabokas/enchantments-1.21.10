@@ -1,4 +1,4 @@
-# Best Minecraft Enchantments < 1.21.10
+# Best Minecraft Enchantments
 
 - [The Breakables](#the-breakables)
   * [Armor](#armor)
